@@ -16,4 +16,5 @@
     <Button GridPane.rowIndex="0" GridPane.columnIndex="2" text="Button 2" GridPane.columnSpan="2" GridPane.rowSpan="2" />
     <Button GridPane.rowIndex="1" GridPane.columnIndex="0" text="Button 3" GridPane.columnSpan="4" prefWidth="Infinity"/>
     <Button GridPane.rowIndex="2" GridPane.columnIndex="1" text="Button 4"/>
+    <Label text="I´m a label" GridPane.columnIndex="0" GridPane.rowIndex="5" textAlignment="CENTER"></Label>
 </GridPane>
