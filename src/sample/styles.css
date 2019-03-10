@@ -1,0 +1,19 @@
+.button{
+    -fx-background-color: red;
+}
+top{
+    -fx-font-weight: bold;
+    -fx-font: 5em Tahoma;
+}
+.label{
+          -fx-background-color: powderblue;
+          -fx-font-weight: bold;
+          -fx-font: 3em Tahoma;
+          -fx-text-inner-color: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 50%);
+          -fx-stroke: black;
+          -fx-stroke-width: 1;
+      }
+
+.Vbox{
+    -fx-background-color: powderblue;
+}
